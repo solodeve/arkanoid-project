@@ -1,0 +1,1 @@
+820,400,COLOR_WHITE,None
